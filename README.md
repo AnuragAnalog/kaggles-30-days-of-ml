@@ -14,5 +14,10 @@
 
 ### Day3
 
-[Read this tutorial](https://www.kaggle.com/colinmorris/functions-and-getting-help?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-3) (from Lesson 2 of the Python course)
-[Complete this exercise](https://www.kaggle.com/anurag1817/exercise-functions-and-getting-help/edit) (from Lesson 2 of the Python course)
+* [Read this tutorial](https://www.kaggle.com/colinmorris/functions-and-getting-help?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-3) (from Lesson 2 of the Python course)
+* [Complete this exercise](https://www.kaggle.com/anurag1817/exercise-functions-and-getting-help/edit) (from Lesson 2 of the Python course)
+
+### Day4
+
+* [Read this tutorial](https://www.kaggle.com/colinmorris/booleans-and-conditionals?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-4) (from Lesson 3 of the Python course)
+* [Complete this exercise](https://www.kaggle.com/anurag1817/exercise-booleans-and-conditionals/edit) (from Lesson 3 of the Python course)
