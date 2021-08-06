@@ -11,3 +11,8 @@
 
 * [Read this tutorial](https://www.kaggle.com/colinmorris/hello-python?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-2) (from Lesson 1 of the Python course)
 * [Complete this exercise](https://www.kaggle.com/anurag1817/exercise-syntax-variables-and-numbers/edit) (from Lesson 1 of the Python course)
+
+### Day3
+
+[Read this tutorial](https://www.kaggle.com/colinmorris/functions-and-getting-help?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-3) (from Lesson 2 of the Python course)
+[Complete this exercise](https://www.kaggle.com/anurag1817/exercise-functions-and-getting-help/edit) (from Lesson 2 of the Python course)
