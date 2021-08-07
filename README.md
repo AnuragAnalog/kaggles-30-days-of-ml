@@ -21,3 +21,10 @@
 
 * [Read this tutorial](https://www.kaggle.com/colinmorris/booleans-and-conditionals?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-4) (from Lesson 3 of the Python course)
 * [Complete this exercise](https://www.kaggle.com/anurag1817/exercise-booleans-and-conditionals/edit) (from Lesson 3 of the Python course)
+
+### Day5
+
+* [Read this tutorial](https://www.kaggle.com/colinmorris/lists?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-5) (from Lesson 4 of the Python course)
+* [Complete this exercise](https://www.kaggle.com/anurag1817/exercise-lists/edit) (from Lesson 4 of the Python course)
+* [Read this tutorial](https://www.kaggle.com/colinmorris/loops-and-list-comprehensions?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-5) (from Lesson 5 of the Python course)
+* [Complete this exercise](https://www.kaggle.com/anurag1817/exercise-loops-and-list-comprehensions/edit) (from Lesson 5 of the Python course)
