@@ -39,3 +39,5 @@
 
 * [Read this tutorial](https://www.kaggle.com/colinmorris/working-with-external-libraries?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-7) (from Lesson 7 of the Python course)
 * [Complete this exercise](https://www.kaggle.com/anurag1817/exercise-working-with-external-libraries/edit) (from Lesson 7 of the Python course)
+
+## Week2
