@@ -31,5 +31,11 @@
 
 ### Day6
 
-[Read this tutorial](https://www.kaggle.com/colinmorris/strings-and-dictionaries?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-6) (from Lesson 6 of the Python course)
-[Complete this exercise](https://www.kaggle.com/anurag1817/exercise-strings-and-dictionaries/edit) (from Lesson 6 of the Python course)
+* [Read this tutorial](https://www.kaggle.com/colinmorris/strings-and-dictionaries?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-6) (from Lesson 6 of the Python course)
+* [Complete this exercise](https://www.kaggle.com/anurag1817/exercise-strings-and-dictionaries/edit) (from Lesson 6 of the Python course)
+
+
+### Day7
+
+* [Read this tutorial](https://www.kaggle.com/colinmorris/working-with-external-libraries?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-7) (from Lesson 7 of the Python course)
+* [Complete this exercise](https://www.kaggle.com/anurag1817/exercise-working-with-external-libraries/edit) (from Lesson 7 of the Python course)
