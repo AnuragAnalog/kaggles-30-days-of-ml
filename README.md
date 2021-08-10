@@ -41,3 +41,9 @@
 * [Complete this exercise](https://www.kaggle.com/anurag1817/exercise-working-with-external-libraries/edit) (from Lesson 7 of the Python course)
 
 ## Week2
+
+### Day8
+
+* [Read this tutorial](https://www.kaggle.com/dansbecker/how-models-work?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-8) (from Lesson 1 of the Intro to ML course)
+* [Read this tutorial](https://www.kaggle.com/dansbecker/basic-data-exploration?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-8) (from Lesson 2 of the Intro to ML course)
+* [Complete this exercise](https://www.kaggle.com/anurag1817/exercise-explore-your-data/edit) (from Lesson 2 of the Intro to ML course)
