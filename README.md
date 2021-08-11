@@ -47,3 +47,10 @@
 * [Read this tutorial](https://www.kaggle.com/dansbecker/how-models-work?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-8) (from Lesson 1 of the Intro to ML course)
 * [Read this tutorial](https://www.kaggle.com/dansbecker/basic-data-exploration?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-8) (from Lesson 2 of the Intro to ML course)
 * [Complete this exercise](https://www.kaggle.com/anurag1817/exercise-explore-your-data/edit) (from Lesson 2 of the Intro to ML course)
+
+### Day9
+
+[Read this tutorial](https://www.kaggle.com/dansbecker/your-first-machine-learning-model?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-9) (from Lesson 3 of the Intro to ML course)
+[Complete this exercise](https://www.kaggle.com/anurag1817/exercise-your-first-machine-learning-model/edit) (from Lesson 3 of the Intro to ML course)
+[Read this tutorial](https://www.kaggle.com/dansbecker/model-validation?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-9) (from Lesson 4 of the Intro to ML course)
+[Complete this exercise](https://www.kaggle.com/anurag1817/exercise-model-validation/edit) (from Lesson 4 of the Intro to ML course)
