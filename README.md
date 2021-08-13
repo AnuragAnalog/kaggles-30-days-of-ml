@@ -61,3 +61,8 @@
 * [Complete this exercise](https://www.kaggle.com/anurag1817/exercise-underfitting-and-overfitting/edit) (from Lesson 5 of the Intro to ML course)
 * [Read this tutorial](https://www.kaggle.com/dansbecker/random-forests?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-10) (from Lesson 6 of the Intro to ML course)
 * [Complete this exercise](https://www.kaggle.com/anurag1817/exercise-random-forests/edit) (from Lesson 6 of the Intro to ML course)
+
+### Day11
+
+* [Read this tutorial](https://www.kaggle.com/alexisbcook/machine-learning-competitions?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-11 ) (from Lesson 7 of the Intro to ML course)
+* [Complete this exercise](https://www.kaggle.com/anurag1817/exercise-machine-learning-competitions/edit) (from Lesson 7 of the Intro to ML course)
