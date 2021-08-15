@@ -66,3 +66,12 @@
 
 * [Read this tutorial](https://www.kaggle.com/alexisbcook/machine-learning-competitions?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-11 ) (from Lesson 7 of the Intro to ML course)
 * [Complete this exercise](https://www.kaggle.com/anurag1817/exercise-machine-learning-competitions/edit) (from Lesson 7 of the Intro to ML course)
+
+### Day12
+
+* [Read this tutorial](https://www.kaggle.com/alexisbcook/introduction?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-12) (from Lesson 1 of the Intermediate ML course)
+* [Complete this exercise](https://www.kaggle.com/anurag1817/exercise-introduction/edit) (from Lesson 1 of the Intermediate ML course)
+* [Read this tutorial](https://www.kaggle.com/alexisbcook/missing-values?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-12) (from Lesson 2 of the Intermediate ML course)
+* [Complete this exercise](https://www.kaggle.com/anurag1817/exercise-missing-values/edit) (from Lesson 2 of the Intermediate ML course)
+* [Read this tutorial](https://www.kaggle.com/alexisbcook/categorical-variables?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-12) (from Lesson 3 of the Intermediate ML course)
+* [Complete this exercise](https://www.kaggle.com/anurag1817/exercise-categorical-variables/edit) (from Lesson 3 of the Intermediate ML course)
