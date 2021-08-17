@@ -1,5 +1,7 @@
 # Kaggle's 30 Days of Machine Learning
 
+This is a four-week challenge that started on Aug 2nd
+
 ## Week1
 
 ### Day1
