@@ -84,3 +84,10 @@ This is a four-week challenge that started on Aug 2nd
 * [Complete this exercise](https://www.kaggle.com/anurag1817/exercise-pipelines/edit) (from Lesson 4 of the Intermediate ML course)
 * [Read this tutorial](https://www.kaggle.com/alexisbcook/cross-validation?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-13) (from Lesson 5 of the Intermediate ML course)
 * [Complete this exercise](https://www.kaggle.com/anurag1817/exercise-cross-validation/edit) (from Lesson 5 of the Intermediate ML course)
+
+### Day14
+
+* [Read this tutorial](https://www.kaggle.com/alexisbcook/xgboost?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-14) (from Lesson 6 of the Intermediate ML course)
+* [Complete this exercise](https://www.kaggle.com/anurag1817/exercise-xgboost/edit) (from Lesson 6 of the Intermediate ML course)
+* [Read this tutorial](https://www.kaggle.com/alexisbcook/data-leakage?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-14) (from Lesson 7 of the Intermediate ML course)
+* [Complete this exercise](https://www.kaggle.com/anurag1817/exercise-data-leakage/edit) (from Lesson 7 of the Intermediate ML course)
