@@ -75,3 +75,10 @@
 * [Complete this exercise](https://www.kaggle.com/anurag1817/exercise-missing-values/edit) (from Lesson 2 of the Intermediate ML course)
 * [Read this tutorial](https://www.kaggle.com/alexisbcook/categorical-variables?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-12) (from Lesson 3 of the Intermediate ML course)
 * [Complete this exercise](https://www.kaggle.com/anurag1817/exercise-categorical-variables/edit) (from Lesson 3 of the Intermediate ML course)
+
+### Day13
+
+* [Read this tutorial](https://www.kaggle.com/alexisbcook/pipelines?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-13) (from Lesson 4 of the Intermediate ML course)
+* [Complete this exercise](https://www.kaggle.com/anurag1817/exercise-pipelines/edit) (from Lesson 4 of the Intermediate ML course)
+* [Read this tutorial](https://www.kaggle.com/alexisbcook/cross-validation?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-13) (from Lesson 5 of the Intermediate ML course)
+* [Complete this exercise](https://www.kaggle.com/anurag1817/exercise-cross-validation/edit) (from Lesson 5 of the Intermediate ML course)
