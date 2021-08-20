@@ -91,3 +91,7 @@ This is a four-week challenge that started on Aug 2nd
 * [Complete this exercise](https://www.kaggle.com/anurag1817/exercise-xgboost/edit) (from Lesson 6 of the Intermediate ML course)
 * [Read this tutorial](https://www.kaggle.com/alexisbcook/data-leakage?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-14) (from Lesson 7 of the Intermediate ML course)
 * [Complete this exercise](https://www.kaggle.com/anurag1817/exercise-data-leakage/edit) (from Lesson 7 of the Intermediate ML course)
+
+## Week3 & Week4
+
+Week3 and week4 is a invite only challenge
