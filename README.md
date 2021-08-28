@@ -95,3 +95,8 @@ This is a four-week challenge that started on Aug 2nd
 ## Week3 & Week4
 
 Week3 and week4 is a invite only challenge
+> As soon as the challenge finishs, It will upload the link of the challenege
+
+**Welcome to the 30 Days of ML competition!**
+
+For the final two weeks of the program, you will work on this competition, open only to people who have signed up for the [30 Days of ML program](https://www.kaggle.com/thirty-days-of-ml). The top 10 teams will receive swag as prizes!
