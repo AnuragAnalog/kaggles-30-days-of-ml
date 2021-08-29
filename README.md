@@ -95,8 +95,18 @@ This is a four-week challenge that started on Aug 2nd
 ## Week3 & Week4
 
 Week3 and week4 is a invite only challenge
-> As soon as the challenge finishs, It will upload the link of the challenege
+> As soon as the challenge finishs, It will upload the link of the challenge
 
 **Welcome to the 30 Days of ML competition!**
 
 For the final two weeks of the program, you will work on this competition, open only to people who have signed up for the [30 Days of ML program](https://www.kaggle.com/thirty-days-of-ml). The top 10 teams will receive swag as prizes!
+
+**Data Description**
+
+For this competition, you will be predicting a continuous `target` based on a number of feature columns given in the data. All of the feature columns, `cat0` - `cat9` are categorical, and the feature columns `cont0` - `cont13` are continuous.
+
+**Files**
+
+* train.csv - the training data with the target column
+* test.csv - the test set; you will be predicting the target for each row in this file
+* sample_submission.csv - a sample submission file in the correct format
